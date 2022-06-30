@@ -1,0 +1,9 @@
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}The Mandelbrot Set概述}{2}
+\contentsline {section}{\numberline {1.1}分形简介}{2}
+\contentsline {section}{\numberline {1.2}The Mandelbrot Set原理}{2}
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}绘制The Mandelbrot Set}{3}
+\contentsline {section}{\numberline {2.1}基础算法}{3}
+\contentsline {section}{\numberline {2.2}绘制图像}{3}
+\contentsline {subsection}{\numberline {2.2.1}图像特点}{3}
+\contentsline {subsection}{\numberline {2.2.2}魔改版图像}{3}
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}学习所得}{4}

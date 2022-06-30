@@ -1,0 +1,25 @@
+\documentclass{ctexrep}
+\usepackage{xltxtra}
+\usepackage{url}
+
+\title{The Mandelbrot Set学习报告}
+\author{吴声炜\\专业：数学与应用数学\\学号：3210102945}
+\begin{document}
+
+\tableofcontents
+
+\chapter{The Mandelbrot Set概述}
+\section{分形简介}
+\section{The Mandelbrot Set原理}
+\chapter{绘制The Mandelbrot Set}
+\section{基础算法}
+\section{绘制图像}
+\subsection{图像特点}
+\subsection{魔改版图像}
+\chapter{学习所得}
+
+\bibliographystyle{plain}
+\bibliography{bibfile}
+
+
+\end{document}
